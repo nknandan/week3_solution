@@ -15,6 +15,7 @@ body{
 }
 
 .navbar-brand h1 { 
+    color: #0099ff;
     font-weight: bold;
     text-shadow: 2px 2px 2px black;
     margin-bottom: 15px;
@@ -79,6 +80,12 @@ body{
     background-color: #252525;
 }
 
+.hr {
+    width: 80%;
+    margin: auto;
+    margin-top: -20px;
+    margin-bottom: 40px;
+}
 .navbar-header button.navbar-toggle {
     clear: both;
 }
